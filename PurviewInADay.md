@@ -1,4 +1,4 @@
-# PurviewInADay
+# Purview In A Day
 
 If you're attending the U2U Purview in a Day, and you want to follow along with the demos, this script provides a few pointers to do so.
 
